@@ -1,0 +1,145 @@
+ @import url("https://use.typekit.net/vjx7uxr.css");
+ @import url("https://use.typekit.net/vjx7uxr.css");
+:root{
+	--color-naranja: #B43B1B;
+	--color-verde: #6E933E;
+	--color-aqua: #0B715C;
+	--color-azul: #56AFEB;
+}
+
+header{
+	padding: 10px;
+	 background-image:url("../img/detalles4.png");
+	background-blend-mode: multiply;
+	background-color: black;
+	background-color: rgba(0,0,0,0.64);
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: "eckmannpsych-large", sans-serif;
+	text-transform: uppercase;
+}
+
+p{
+	font-family: "rigid-square", sans-serif;
+	margin-top: 30px;
+}
+
+li{
+	font-family:"rigid-square", sans-serif;
+}
+#portafolio{
+	background-image: url("../img/detalles3.png" );
+	background-color:#D90003;
+	padding: 200px;
+	background-size: cover;
+}
+
+#footernav{
+	text-align: center;
+}
+
+#portafolio h1{
+	font-size: 200px;
+	text-align: center;
+}
+
+#portafolio p{
+	color:#0D0C1F;
+	text-align: center;
+	margin-top: 10px;
+	
+}
+
+#vivir{
+	padding: 100px;
+	background-image:url("../img/detalles1.PNG");
+	background-color: var(--color-naranja);
+}
+
+#vivir p{
+	color:#FFFFFF;
+}
+
+#habilidades{
+	padding: 20px;
+	background-color:#FFFFFF;
+	color: #FFFFFF;
+	
+	
+	
+
+}
+
+#habilidades h1{
+	margin-top: 30px;
+	color:var(--color-naranja);
+}
+
+#habilidades h3{
+	text-align: center;
+	font-family: "rigid-square", sans-serif;
+	font-size: 20px;
+	color:var(--color-aqua);
+	
+}
+
+#habilidades li{
+	list-style-type: none;
+	text-align: center;
+	color: #000000;
+}
+
+#arte{
+	padding: 150px;
+	background-color: var(--color-naranja);
+	background-image:url("../img/detalles1.PNG");
+    
+}
+
+#hablemos{
+	padding: 100px;
+	background-image:url("../img/detalles4.png");
+		background-color:  var(--color-naranja);
+}
+
+#hablemos p{
+	margin-top: 5px;
+	color:#FFFFFF;
+}
+
+.row{
+	padding-top: 30px;
+}
+.nav-naranja{
+	background-color: var(--color-naranja);
+    padding: 10px;
+    border-radius: 40px;
+	text-align: center;
+}
+
+
+.footer-naranja{
+	background-color: var(--color-naranja);
+}
+
+.footer-morado{
+	background-color: var(--color-morado);
+}
+
+.footer-verde{
+	background-color: var(--color-verde);
+}
+
+.footer-cafe{
+	background-color: var(--color-cafe);
+}
+
+.footer-rosado{
+	background-color: var(--color-rosado);
+}
+
+.titulos-contact{
+	font-size: 30px;
+}
+
